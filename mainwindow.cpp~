@@ -3,6 +3,7 @@
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent)
 {
+  /* you need both these lines for a transparent main window */
   setAttribute(Qt::WA_TranslucentBackground);
   setStyleSheet("background:transparent;");
 
