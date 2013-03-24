@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui.qml</file>
+        <file>variables.js</file>
+        <file alias="demon">dementor.png</file>
+        <file alias="bg">video_games_outer_space_planets_mass_effect_3_dead_end_thrills_reapers_1920x1080_wallpaper_Wallpaper_1680x1050_www.wallpaperswa.com.jpg</file>
+    </qresource>
+    <qresource prefix="/spaceShipSprites">
+        <file alias="ship">ship.png</file>
+        <file alias="fuel">fuel.png</file>
+    </qresource>
+</RCC>
