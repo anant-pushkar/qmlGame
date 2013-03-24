@@ -1,6 +1,9 @@
 import Qt 4.7
 import "variables.js" as GameScript
 
+/*
+ * game background
+ */
 Rectangle {
   width: 640
   height: 480
@@ -12,6 +15,9 @@ Rectangle {
       width: parent.width
   }
 
+  /*
+   * Instructions
+   */
   Rectangle{
       color: "#999999"
       opacity: 0.5
