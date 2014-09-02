@@ -1,4 +1,4 @@
 qmlGame
 =======
 
-demo space arcade game made on qml
+Space arcade game made on qml
